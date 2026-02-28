@@ -1,0 +1,197 @@
+Ligand,BestMode,minimizedAffinity (kcal/mol),CNNscore,CNNaffinity,CNN_VS
+CONH2_docked_random_indole_CONH2_7.sdf,9,-10.25911,0.7760419250,8.4637069702,6.5681915283
+Combined groups_docked_random_indole_combined_CONH217_NH215_OH11_17.sdf,5,-10.22268,0.5713179708,8.3744134903,4.7844529152
+OH_docked_random_indole_OH_6.sdf,6,-10.22164,0.5890884399,8.1671171188,4.8111543655
+Combined groups_docked_random_indole_combined_CH311_F13_SO2CH314_44.sdf,4,-10.06429,0.7061485648,9.1121377945,6.4345231056
+Combined groups_docked_random_indole_combined_F13_CF314_10.sdf,1,-10.04975,0.6823241711,8.9306612015,6.0936059952
+Combined groups_docked_random_indole_combined_CONH211_76.sdf,1,-10.03019,0.7373684049,8.2995719910,6.1198420525
+OH_docked_random_indole_OH_3.sdf,8,-10.02705,0.5050436854,8.2281789780,4.1555900574
+Combined groups_docked_random_indole_combined_CONH211_68.sdf,8,-10.01793,0.7421710491,8.4126129150,6.2435979843
+CH3_docked_random_indole_CH3_3.sdf,9,-10.00513,0.4873335361,8.2026004791,3.9974021912
+Combined groups_docked_random_indole_combined_NH211_62.sdf,2,-10.00444,0.7686535120,8.5406541824,6.5648036003
+OH_docked_random_indole_OH_4.sdf,4,-10.00197,0.5896742344,8.0876407623,4.7690734863
+CH2OH_docked_random_indole_CH2OH_4.sdf,7,-9.99762,0.5518884063,8.0758848190,4.4569873810
+CH3_docked_random_indole_CH3_8.sdf,9,-9.9955,0.5728687644,8.6833934784,4.9744448662
+F_docked_random_indole_F_7.sdf,6,-9.98369,0.6362623572,8.2203474045,5.2302975655
+Combined groups_docked_random_indole_combined_OH11_43.sdf,1,-9.97759,0.6442535520,8.3234167099,5.3623909950
+Combined groups_docked_random_indole_combined_OH17_20.sdf,3,-9.96941,0.7171365023,8.1711444855,5.8598260880
+F_docked_random_indole_F_10.sdf,5,-9.96602,0.5407994986,8.6516332626,4.6787991524
+CF3_docked_random_indole_cf3_1.sdf,9,-9.95209,0.5859204531,8.5981311798,5.0378208160
+NH2_docked_random_indole_NH2_4.sdf,7,-9.94616,0.5570513010,8.4122495651,4.6860547066
+F_docked_random_indole_F_9.sdf,3,-9.91671,0.6419708133,8.5727081299,5.5034284592
+F_docked_random_indole_F_2.sdf,7,-9.91656,0.5587119460,8.5457515717,4.7746133804
+F_docked_random_indole_F_4.sdf,8,-9.90524,0.5783407092,8.6255140305,4.9884858131
+F_docked_random_indole_F_6.sdf,4,-9.90066,0.6202964187,8.7880172729,5.4511756897
+CONH2_docked_random_indole_CONH2_4.sdf,7,-9.87863,0.5461646914,8.5265865326,4.6569204330
+CH2OH_docked_random_indole_CH2OH_3.sdf,7,-9.86864,0.5419834852,8.3878984451,4.5461025238
+CONH2_docked_random_indole_CONH2_8.sdf,8,-9.85678,0.6698712111,8.6932430267,5.8233532906
+Combined groups_docked_random_indole_combined_NH215_84.sdf,6,-9.85463,0.5689346194,8.3669576645,4.7602519989
+Combined groups_docked_random_indole_combined_NH215_66.sdf,3,-9.85199,0.5456826687,8.3302335739,4.5456643105
+CN_docked_random_indole_CN_5.sdf,7,-9.84625,0.6003419161,8.3950614929,5.0399074554
+CF3_docked_random_indole_cf3_7.sdf,4,-9.83339,0.7095280290,9.7741355896,6.9350233078
+Combined groups_docked_random_indole_combined_F11_60.sdf,3,-9.83226,0.6405009627,8.5806417465,5.4959092140
+Combined groups_docked_random_indole_combined_CH2OH14_8.sdf,4,-9.83222,0.5889459252,7.7523946762,4.5657410622
+NH2_docked_random_indole_NH2_8.sdf,5,-9.82353,0.4266977310,8.4039440155,3.5859439373
+Combined groups_docked_random_indole_combined_NH213_F15_CONH214_30.sdf,7,-9.81342,0.4799836278,8.1456289291,3.9097685814
+Combined groups_docked_random_indole_combined_OH11_72.sdf,7,-9.81005,0.5712954998,8.2430553436,4.7092204094
+CH3_docked_random_indole_CH3_2.sdf,3,-9.80556,0.7165488005,8.2048807144,5.8791975975
+Combined groups_docked_random_indole_combined_CF313_CH315_CH317_87.sdf,2,-9.80528,0.8531213999,9.0639419556,7.7326426506
+CH3_docked_random_indole_CH3_10.sdf,9,-9.78452,0.5695860386,8.4406223297,4.8076605797
+Combined groups_docked_random_indole_combined_OH11_98.sdf,8,-9.77005,0.5918396711,8.0890827179,4.7874398232
+Combined groups_docked_random_indole_combined_NH215_38.sdf,2,-9.76771,0.6790178418,8.2321434021,5.5897722244
+CF3_docked_random_indole_cf3_10.sdf,3,-9.76465,0.6521402597,9.0673685074,5.9131960869
+CF3_docked_random_indole_cf3_3.sdf,9,-9.75491,0.5136910677,9.6107635498,4.9369635582
+NH2_docked_random_indole_NH2_1.sdf,8,-9.75427,0.3130854368,8.2595138550,2.5859334469
+Combined groups_docked_random_indole_combined_NH217_49.sdf,3,-9.75366,0.5327460170,8.1835517883,4.3597545624
+CF3_docked_random_indole_cf3_5.sdf,9,-9.73963,0.6152533293,9.5230464935,5.8590860367
+Combined groups_docked_random_indole_combined_CONH217_81.sdf,2,-9.73163,0.7149707675,8.5391263962,6.1052255630
+OCH3_docked_random_indole_OCH3_1.sdf,4,-9.72726,0.6182612181,8.3137245178,5.1400532722
+Combined groups_docked_random_indole_combined_OCH317_42.sdf,4,-9.72415,0.7377829552,8.5765705109,6.3276476860
+Combined groups_docked_random_indole_combined_F15_CN13_F17_40.sdf,3,-9.72402,0.5989896655,8.9329032898,5.3507165909
+Combined groups_docked_random_indole_combined_CH2OH15_95.sdf,3,-9.70235,0.6385993361,8.3039674759,5.3029079437
+Combined groups_docked_random_indole_combined_CH2OH14_31.sdf,9,-9.70155,0.4902641773,8.1842250824,4.0124325752
+Combined groups_docked_random_indole_combined_NH214_41.sdf,3,-9.69877,0.4775727391,8.0958852768,3.8663740158
+Combined groups_docked_random_indole_combined_CH2OH17_34.sdf,8,-9.69733,0.5098598599,8.0422258377,4.1004080772
+Combined groups_docked_random_indole_combined_CF311_36.sdf,6,-9.69075,0.8127518892,8.8320131302,7.1782355309
+Combined groups_docked_random_indole_combined_SO2CH311_CH2OH15_OH14_29.sdf,1,-9.6896,0.7914137244,8.6711330414,6.8624534607
+CONH2_docked_random_indole_CONH2_10.sdf,8,-9.67719,0.5577195883,8.2698812485,4.6122746468
+Combined groups_docked_random_indole_combined_NH211_32.sdf,3,-9.66708,0.7278466821,8.3558969498,6.0818119049
+Combined groups_docked_random_indole_combined_SO2CH314_56.sdf,7,-9.65945,0.5560331941,8.6450414658,4.8069300652
+Combined groups_docked_random_indole_combined_CH314_1.sdf,1,-9.64456,0.8047312498,8.2273454666,6.6208019257
+Combined groups_docked_random_indole_combined_CH2OH13_16.sdf,6,-9.64075,0.5254304409,8.0694360733,4.2399272919
+Combined groups_docked_random_indole_combined_OH17_58.sdf,1,-9.63356,0.9092372060,8.3331298828,7.5767917633
+OH_docked_random_indole_OH_5.sdf,9,-9.6314,0.5030785799,8.2889461517,4.1699914932
+Combined groups_docked_random_indole_combined_CONH214_11.sdf,3,-9.62338,0.6286172867,8.1716222763,5.1368231773
+Combined groups_docked_random_indole_combined_CONH214_SO2CH313_96.sdf,8,-9.62099,0.3813376129,8.5654754639,3.2663378716
+OCH3_docked_random_indole_OCH3_3.sdf,2,-9.61817,0.7608094811,8.6218652725,6.5595970154
+Combined groups_docked_random_indole_combined_CH2OH13_NH211_85.sdf,8,-9.61167,0.4780397117,8.3363990784,3.9851298332
+CH2OH_docked_random_indole_CH2OH_8.sdf,5,-9.57743,0.5806820989,8.4762964249,4.9220337868
+Combined groups_docked_random_indole_combined_OCH315_NH214_27.sdf,5,-9.56979,0.3888154924,8.3530025482,3.2477767467
+CONH2_docked_random_indole_CONH2_9.sdf,4,-9.56508,0.5522988439,7.8217597008,4.3199486732
+Combined groups_docked_random_indole_combined_CF313_CN15_74.sdf,9,-9.56216,0.6972221732,8.5015764236,5.9274873734
+SO2CH3_docked_random_indole_SO2CH3_9.sdf,9,-9.55853,0.5587497950,8.6203489304,4.8166179657
+Combined groups_docked_random_indole_combined_CN15_SO2CH314_79.sdf,6,-9.55744,0.4067397714,8.6665525436,3.5250315666
+Combined groups_docked_random_indole_combined_OH11_14.sdf,2,-9.55539,0.7504957914,8.4057025909,6.3084445000
+NH2_docked_random_indole_NH2_2.sdf,8,-9.55396,0.2663662732,7.9988441467,2.1306223869
+CH2OH_docked_random_indole_CH2OH_5.sdf,7,-9.55064,0.5026507378,8.1942348480,4.1188383102
+Combined groups_docked_random_indole_combined_F17_OCH315_5.sdf,3,-9.54786,0.6557011008,8.7000303268,5.7046194077
+CH3_docked_random_indole_CH3_6.sdf,5,-9.53849,0.5581757426,8.1117372513,4.5277748108
+Combined groups_docked_random_indole_combined_CF317_OH13_OCH315_35.sdf,5,-9.53821,0.3735027015,8.7292098999,3.2603833675
+F_docked_random_indole_F_5.sdf,7,-9.52904,0.4888647795,8.4954547882,4.1531286240
+CN_docked_random_indole_CN_6.sdf,2,-9.52192,0.7923721671,8.8964118958,7.0492691994
+OH_docked_random_indole_OH_7.sdf,4,-9.51901,0.5470020771,8.1760091782,4.4722938538
+Combined groups_docked_random_indole_combined_CN13_F11_73.sdf,2,-9.51423,0.6862574220,8.8945446014,6.1039471626
+CF3_docked_random_indole_cf3_2.sdf,5,-9.50915,0.5906808376,9.0222902298,5.3292937279
+CH3_docked_random_indole_CH3_7.sdf,1,-9.50906,0.6868370771,8.0329265594,5.5173115730
+Combined groups_docked_random_indole_combined_F17_80.sdf,8,-9.50566,0.5358644128,8.3898077011,4.4957995415
+OCH3_docked_random_indole_OCH3_2.sdf,7,-9.50479,0.5267006755,8.3909826279,4.4195361137
+CH3_docked_random_indole_CH3_1.sdf,9,-9.50185,0.6312177181,8.5101423264,5.3717527390
+Combined groups_docked_random_indole_combined_F13_57.sdf,8,-9.49783,0.6201028824,8.4496688843,5.2396640778
+CN_docked_random_indole_CN_1.sdf,9,-9.49439,0.5610706210,8.3197135925,4.6679468155
+Combined groups_docked_random_indole_combined_CH2OH17_OH13_OCH311_47.sdf,1,-9.49233,0.5672987700,8.4394264221,4.7876763344
+Combined groups_docked_random_indole_combined_OCH317_OCH314_24.sdf,8,-9.48201,0.5747483969,8.6185131073,4.9534764290
+Combined groups_docked_random_indole_combined_NH211_F17_37.sdf,3,-9.48084,0.7584383488,8.4288043976,6.3927283287
+Combined groups_docked_random_indole_combined_CH2OH15_CH313_92.sdf,2,-9.47525,0.7733905315,8.3419208527,6.4515624046
+Combined groups_docked_random_indole_combined_OH13_67.sdf,3,-9.47436,0.5189867020,8.1175336838,4.2128920555
+NH2_docked_random_indole_NH2_7.sdf,6,-9.4726,0.3889908493,8.3216342926,3.2370395660
+Combined groups_docked_random_indole_combined_OH14_SO2CH315_88.sdf,8,-9.454,0.3863529861,8.6207447052,3.3306505680
+CH2OH_docked_random_indole_CH2OH_10.sdf,2,-9.44488,0.6090794802,8.4156274796,5.1257858276
+Combined groups_docked_random_indole_combined_CF315_OCH317_NH213_54.sdf,8,-9.44305,0.4895567596,8.5764732361,4.1986703873
+SO2CH3_docked_random_indole_SO2CH3_5.sdf,8,-9.43073,0.6986721158,8.3881778717,5.8605861664
+SO2CH3_docked_random_indole_SO2CH3_10.sdf,9,-9.42151,0.4394519329,8.6146421432,3.7857210636
+NH2_docked_random_indole_NH2_10.sdf,8,-9.42029,0.6590627432,8.4087123871,5.5418691635
+Combined groups_docked_random_indole_combined_SO2CH315_CF313_71.sdf,3,-9.41071,0.6794658303,9.2234907150,6.2670469284
+Combined groups_docked_random_indole_combined_OCH317_45.sdf,7,-9.40698,0.5551564097,8.3357362747,4.6276373863
+NH2_docked_random_indole_NH2_5.sdf,8,-9.40376,0.3467179835,8.4097537994,2.9158129692
+Combined groups_docked_random_indole_combined_SO2CH313_64.sdf,7,-9.3798,0.6116505861,8.0664291382,4.9338359833
+Combined groups_docked_random_indole_combined_OCH311_CH315_CN17_90.sdf,7,-9.37148,0.6460345387,8.6335325241,5.5775604248
+Combined groups_docked_random_indole_combined_SO2CH317_51.sdf,7,-9.36971,0.5001558065,8.2698926926,4.1362347603
+Combined groups_docked_random_indole_combined_CF313_OCH314_CF315_12.sdf,7,-9.35796,0.3668111563,8.8853750229,3.2592546940
+CONH2_docked_random_indole_CONH2_2.sdf,6,-9.34925,0.6270740628,8.1989822388,5.1413688660
+CH3_docked_random_indole_CH3_4.sdf,8,-9.30229,0.4670636356,8.3059148788,3.8793907166
+Combined groups_docked_random_indole_combined_CH2OH14_CN15_86.sdf,5,-9.29556,0.5734793544,8.2214593887,4.7148370743
+NH2_docked_random_indole_NH2_6.sdf,9,-9.29065,0.2755765021,8.0349006653,2.2142298222
+Combined groups_docked_random_indole_combined_SO2CH317_SO2CH314_61.sdf,7,-9.28985,0.5501095057,8.7848863602,4.8326497078
+CF3_docked_random_indole_cf3_8.sdf,1,-9.28613,0.6126151681,8.4720029831,5.1900773048
+SO2CH3_docked_random_indole_SO2CH3_4.sdf,4,-9.26893,0.7122166157,8.5125617981,6.0627880096
+Combined groups_docked_random_indole_combined_CONH215_55.sdf,6,-9.26374,0.4836938977,8.0703382492,3.9035732746
+OCH3_docked_random_indole_OCH3_8.sdf,7,-9.25899,0.5729050040,8.1924877167,4.6935172081
+CONH2_docked_random_indole_CONH2_5.sdf,3,-9.25278,0.3877218962,8.2917318344,3.2148859501
+Combined groups_docked_random_indole_combined_OCH314_CH313_97.sdf,5,-9.23884,0.6953391433,8.5980815887,5.9785828590
+Combined groups_docked_random_indole_combined_OCH313_CH2OH15_100.sdf,8,-9.22913,0.4764779508,8.8812322617,4.2317113876
+Combined groups_docked_random_indole_combined_F11_CH2OH14_F17_18.sdf,5,-9.2213,0.7097603083,8.8790483475,6.3019962311
+Combined groups_docked_random_indole_combined_CONH215_19.sdf,9,-9.20317,0.4017065167,8.1855421066,3.2881855965
+Combined groups_docked_random_indole_combined_CH315_CH2OH13_89.sdf,8,-9.19803,0.4988993704,8.3089895248,4.1453495026
+CN_docked_random_indole_CN_2.sdf,1,-9.18467,0.6770757437,8.4109458923,5.6948475838
+SO2CH3_docked_random_indole_SO2CH3_3.sdf,2,-9.18429,0.7024767399,8.5981550217,6.0400037766
+Combined groups_docked_random_indole_combined_CONH215_70.sdf,8,-9.18175,0.4223588407,8.1033239365,3.4225103855
+OCH3_docked_random_indole_OCH3_9.sdf,9,-9.15936,0.4817833304,8.5054616928,4.0977897644
+Combined groups_docked_random_indole_combined_OH17_CONH213_CF315_83.sdf,4,-9.14114,0.3814522624,8.2747039795,3.1564044952
+CN_docked_random_indole_CN_7.sdf,8,-9.09187,0.4952724278,8.4382381439,4.1792268753
+Combined groups_docked_random_indole_combined_NH215_93.sdf,6,-9.07794,0.4611704350,8.3414039612,3.8468089104
+Combined groups_docked_random_indole_combined_CN15_CONH213_63.sdf,6,-9.05459,0.6367614269,8.3336668015,5.3065576553
+CH2OH_docked_random_indole_CH2OH_1.sdf,6,-9.0438,0.5718537569,8.1376142502,4.6535253525
+OH_docked_random_indole_OH_8.sdf,8,-9.01671,0.4565060437,7.8912029266,3.6023819447
+Combined groups_docked_random_indole_combined_CH2OH13_CN17_3.sdf,9,-9.00671,0.5901286006,8.5497283936,5.0454392433
+Combined groups_docked_random_indole_combined_CH2OH14_CONH211_CONH215_7.sdf,7,-8.99799,0.6729057431,8.3195276260,5.5982580185
+Combined groups_docked_random_indole_combined_CH2OH14_NH217_SO2CH315_21.sdf,1,-8.97697,0.6361609697,8.2674970627,5.2594590187
+F_docked_random_indole_F_3.sdf,4,-8.97111,0.5310828686,8.2864437103,4.4007883072
+CF3_docked_random_indole_cf3_9.sdf,5,-8.97089,0.6980567575,9.3560924530,6.5310835838
+CONH2_docked_random_indole_CONH2_6.sdf,8,-8.96783,0.5905066729,8.4298162460,4.9778628349
+CONH2_docked_random_indole_CONH2_1.sdf,5,-8.92607,0.5452105999,8.2264204025,4.4851317406
+Combined groups_docked_random_indole_combined_CN15_OH11_CF317_48.sdf,7,-8.92601,0.4235451519,8.5986499786,3.6419165134
+Combined groups_docked_random_indole_combined_CH314_SO2CH315_OCH317_69.sdf,4,-8.91006,0.5389715433,8.5103349686,4.5868282318
+Combined groups_docked_random_indole_combined_CH2OH14_CONH215_25.sdf,6,-8.89885,0.4466126561,8.2248353958,3.6733155251
+Combined groups_docked_random_indole_combined_OH13_SO2CH315_OCH311_99.sdf,1,-8.89857,0.6778534055,8.3006849289,5.6266474724
+CH2OH_docked_random_indole_CH2OH_7.sdf,4,-8.88779,0.4228374660,8.1188144684,3.4329390526
+CONH2_docked_random_indole_CONH2_3.sdf,6,-8.88108,0.6322211027,8.2810792923,5.2354731560
+Combined groups_docked_random_indole_combined_SO2CH315_CH2OH11_F14_23.sdf,4,-8.87108,0.5148146749,8.3909091949,4.3197631836
+SO2CH3_docked_random_indole_SO2CH3_2.sdf,9,-8.83779,0.4073030353,8.3745422363,3.4109764099
+Combined groups_docked_random_indole_combined_CN13_33.sdf,8,-8.82916,0.4620631039,8.2077970505,3.7925202847
+Combined groups_docked_random_indole_combined_CH2OH15_CH313_CN11_9.sdf,6,-8.8197,0.4794442952,8.5256767273,4.0875868797
+Combined groups_docked_random_indole_combined_OH14_F13_6.sdf,4,-8.81079,0.4696261585,8.2592582703,3.8787636757
+OH_docked_random_indole_OH_10.sdf,8,-8.80994,0.4140381515,7.6383786201,3.1625802517
+Combined groups_docked_random_indole_combined_OH14_F17_46.sdf,1,-8.80798,0.7490567565,8.6869144440,6.5069918633
+CH3_docked_random_indole_CH3_5.sdf,5,-8.80391,0.5009076595,8.1244058609,4.0695772171
+Combined groups_docked_random_indole_combined_OCH317_CONH213_77.sdf,9,-8.79958,0.3276731372,8.3114652634,2.7234439850
+Combined groups_docked_random_indole_combined_NH213_SO2CH315_CN11_91.sdf,4,-8.79805,0.6863806844,8.9038686752,6.1114435196
+CF3_docked_random_indole_cf3_4.sdf,2,-8.78671,0.7581368685,8.8464889526,6.7068495750
+OH_docked_random_indole_OH_1.sdf,9,-8.76644,0.3622427583,7.9814887047,2.8912365437
+F_docked_random_indole_F_8.sdf,5,-8.76272,0.5072947741,8.4483518600,4.2858047485
+CF3_docked_random_indole_cf3_6.sdf,8,-8.75808,0.5408497453,8.5018968582,4.5982489586
+SO2CH3_docked_random_indole_SO2CH3_8.sdf,6,-8.74596,0.4841653705,7.9441637993,3.8462889194
+CH2OH_docked_random_indole_CH2OH_2.sdf,5,-8.68429,0.7094063759,8.3568677902,5.9284152985
+F_docked_random_indole_F_1.sdf,2,-8.67989,0.7489683032,8.8618898392,6.6372747421
+Combined groups_docked_random_indole_combined_CH311_59.sdf,6,-8.663,0.5549583435,8.1704416275,4.5342545509
+Combined groups_docked_random_indole_combined_OH14_CF315_CONH213_4.sdf,8,-8.65308,0.3036153316,8.3725671768,2.5420398712
+CN_docked_random_indole_CN_9.sdf,5,-8.63558,0.5680815578,8.6757059097,4.9285087585
+Combined groups_docked_random_indole_combined_OCH313_CF314_39.sdf,9,-8.63253,0.4772107899,8.4337692261,4.0246858597
+CH2OH_docked_random_indole_CH2OH_6.sdf,4,-8.61308,0.6814267635,8.3407640457,5.6836199760
+SO2CH3_docked_random_indole_SO2CH3_7.sdf,9,-8.61192,0.4967856407,8.5043401718,4.2248339653
+Combined groups_docked_random_indole_combined_OCH317_94.sdf,2,-8.6079,0.6571681499,8.3781070709,5.5058250427
+Combined groups_docked_random_indole_combined_OCH317_OH13_28.sdf,6,-8.5985,0.4563846290,8.1977338791,3.7413196564
+SO2CH3_docked_random_indole_SO2CH3_6.sdf,2,-8.59057,0.5667672157,8.5226240158,4.8303437233
+CN_docked_random_indole_CN_10.sdf,8,-8.58323,0.5114068985,8.6192436218,4.4079408646
+CN_docked_random_indole_CN_8.sdf,9,-8.57021,0.4177809358,8.0418024063,3.3597116470
+Combined groups_docked_random_indole_combined_OCH315_CH311_78.sdf,8,-8.5484,0.4623480141,8.4482555389,3.9060342312
+Combined groups_docked_random_indole_combined_F11_CF314_F15_65.sdf,5,-8.5472,0.5571475625,8.8334493637,4.9215350151
+CH3_docked_random_indole_CH3_9.sdf,3,-8.54529,0.7816823125,8.5546789169,6.6870412827
+OH_docked_random_indole_OH_2.sdf,8,-8.54241,0.3461965621,7.9747447968,2.7608292103
+NH2_docked_random_indole_NH2_9.sdf,7,-8.51075,0.3063617051,8.0703754425,2.4724540710
+Combined groups_docked_random_indole_combined_CH2OH17_NH214_SO2CH311_22.sdf,3,-8.48989,0.6707816124,8.4371604919,5.6594920158
+Combined groups_docked_random_indole_combined_CONH214_CH317_13.sdf,3,-8.48624,0.5244594812,8.1533527374,4.2761030197
+Combined groups_docked_random_indole_combined_SO2CH315_82.sdf,5,-8.46856,0.4402557909,8.5156574249,3.7490675449
+NH2_docked_random_indole_NH2_3.sdf,2,-8.46453,0.6428567171,8.4512853622,5.4329657555
+OH_docked_random_indole_OH_9.sdf,9,-8.46328,0.3497188389,7.9817156792,2.7913563251
+Combined groups_docked_random_indole_combined_CN14_SO2CH311_CH313_52.sdf,5,-8.43741,0.6625342369,8.5767135620,5.6823663712
+Combined groups_docked_random_indole_combined_CN17_CN13_CN11_26.sdf,6,-8.43533,0.4858056903,8.5876626968,4.1719355583
+Combined groups_docked_random_indole_combined_NH217_53.sdf,1,-8.38811,0.8026228547,7.9390888214,6.3720941544
+SO2CH3_docked_random_indole_SO2CH3_1.sdf,9,-8.38363,0.4177011549,8.1358394623,3.3983495235
+Combined groups_docked_random_indole_combined_OH17_SO2CH315_75.sdf,8,-8.35822,0.4495976865,8.3905429840,3.7723686695
+Combined groups_docked_random_indole_combined_CH2OH17_OH15_50.sdf,6,-8.35778,0.5767487288,7.7582902908,4.4745841026
+CN_docked_random_indole_CN_4.sdf,5,-8.2964,0.3918237090,8.3362646103,3.2663462162
+Combined groups_docked_random_indole_combined_OCH317_15.sdf,3,-8.19231,0.6019207835,7.6546020508,4.6074638367
+CH2OH_docked_random_indole_CH2OH_9.sdf,1,-8.13017,0.8349384069,7.8461141586,6.5510220528
+Combined groups_docked_random_indole_combined_CN15_2.sdf,9,-8.10311,0.4606634974,8.2469263077,3.7990579605
+OCH3_docked_random_indole_OCH3_10.sdf,3,-8.08366,0.7649132609,8.5253086090,6.5211215019
+CN_docked_random_indole_CN_3.sdf,4,-7.7781,0.6571624875,8.4929924011,5.5812759399
